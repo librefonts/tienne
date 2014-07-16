@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <post>
+    <formatType value="2.0"/>
+    <italicAngle value="0.0"/>
+    <underlinePosition value="-154"/>
+    <underlineThickness value="102"/>
+    <isFixedPitch value="0"/>
+    <minMemType42 value="0"/>
+    <maxMemType42 value="0"/>
+    <minMemType1 value="0"/>
+    <maxMemType1 value="0"/>
+    <psNames>
+      <!-- This file uses unique glyph names based on the information
+           found in the 'post' table. Since these names might not be unique,
+           we have to invent artificial names in case of clashes. In order to
+           be able to retain the original information, we need a name to
+           ps name mapping for those cases where they differ. That's what
+           you see below.
+            -->
+    </psNames>
+    <extraNames>
+      <!-- following are the name that are not taken from the standard Mac glyph order -->
+      <psName name="uni0001"/>
+      <psName name="uni0002"/>
+      <psName name="uni0003"/>
+      <psName name="uni0004"/>
+      <psName name="uni0005"/>
+      <psName name="uni0006"/>
+      <psName name="uni0007"/>
+      <psName name="uni0008"/>
+      <psName name="uni0009"/>
+      <psName name="uni0010"/>
+      <psName name="uni0011"/>
+      <psName name="uni0012"/>
+      <psName name="uni0013"/>
+      <psName name="uni0014"/>
+      <psName name="uni0015"/>
+      <psName name="uni0016"/>
+      <psName name="uni0017"/>
+      <psName name="uni0018"/>
+      <psName name="uni0019"/>
+      <psName name="uni00A0"/>
+      <psName name="uni00AD"/>
+      <psName name="hbar"/>
+      <psName name="Itilde"/>
+      <psName name="itilde"/>
+      <psName name="IJ"/>
+      <psName name="ij"/>
+      <psName name="Jcircumflex"/>
+      <psName name="jcircumflex"/>
+      <psName name="kcommaaccent"/>
+      <psName name="kgreenlandic"/>
+      <psName name="Ldot"/>
+      <psName name="ldot"/>
+      <psName name="Nacute"/>
+      <psName name="nacute"/>
+      <psName name="Racute"/>
+      <psName name="Rcommaaccent"/>
+      <psName name="rcommaaccent"/>
+      <psName name="Rcaron"/>
+      <psName name="rcaron"/>
+      <psName name="uni0200"/>
+      <psName name="uni0201"/>
+      <psName name="uni0202"/>
+      <psName name="uni0203"/>
+      <psName name="uni0204"/>
+      <psName name="uni0205"/>
+      <psName name="uni0206"/>
+      <psName name="uni0207"/>
+      <psName name="uni0208"/>
+      <psName name="uni0209"/>
+      <psName name="uni020A"/>
+      <psName name="uni020B"/>
+      <psName name="uni020C"/>
+      <psName name="uni020D"/>
+      <psName name="uni020E"/>
+      <psName name="uni020F"/>
+      <psName name="uni0210"/>
+      <psName name="uni0211"/>
+      <psName name="uni0212"/>
+      <psName name="uni0213"/>
+      <psName name="uni0214"/>
+      <psName name="uni0215"/>
+      <psName name="uni0216"/>
+      <psName name="uni0217"/>
+      <psName name="uni0218"/>
+      <psName name="uni0219"/>
+      <psName name="uni021A"/>
+      <psName name="uni021B"/>
+      <psName name="uni0237"/>
+      <psName name="uni02C9"/>
+      <psName name="uni0307"/>
+      <psName name="uni030F"/>
+      <psName name="uni0311"/>
+      <psName name="uni0326"/>
+      <psName name="mu.001"/>
+      <psName name="uni2074"/>
+      <psName name="Euro"/>
+      <psName name="estimated"/>
+      <psName name="uni2215"/>
+      <psName name="uni2219"/>
+      <psName name="NULL"/>
+      <psName name="Scommaaccent"/>
+      <psName name="scommaaccent"/>
+      <psName name="_323"/>
+      <psName name="_324"/>
+      <psName name="_325"/>
+      <psName name="_326"/>
+      <psName name="_327"/>
+      <psName name="_328"/>
+      <psName name="_329"/>
+      <psName name="_330"/>
+      <psName name="_331"/>
+      <psName name="_332"/>
+      <psName name="_333"/>
+      <psName name="Ldotaccent"/>
+      <psName name="dotaccentcmb"/>
+    </extraNames>
+  </post>
+
+</ttFont>
