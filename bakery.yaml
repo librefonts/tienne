@@ -1,0 +1,7 @@
+commit: HEAD
+process_files: [Tienne-Regular.ttf.ttx, Tienne-Heavy.ttf.ttx, Tienne-Bold.ttf.ttx,
+  src/Tienne-Regular.otf.ttx, src/Tienne-Heavy.otf.ttx, src/Tienne-Bold.otf.ttx, src/Tienne-Regular-TTF.sfd,
+  src/Tienne-Heavy.sfd, src/Tienne-Heavy-TTF.sfd, src/Tienne-Bold-TTF.sfd]
+pyftsubset: --notdef-outline --name-IDs=* --hinting
+subset: [latin]
+ttfautohint: -l 7 -r 28 -G 50 -x 13 -w "G"
